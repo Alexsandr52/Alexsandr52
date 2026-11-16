@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">SafetyGuard: результаты оптимизации модели</title>
+<desc id="desc">Размер модели: 12,4 МБ до и 3,3 МБ после. Обработка минуты видео: около 120 секунд до и около 23 секунд после.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1424"/><stop offset="1" stop-color="#102937"/></linearGradient><linearGradient id="accent"><stop stop-color="#52cbbf"/><stop offset="1" stop-color="#8de9dc"/></linearGradient></defs>
+<rect width="1200" height="370" rx="20" fill="url(#bg)"/>
+<g font-family="Arial, sans-serif"><text x="48" y="53" font-size="13" font-weight="700" letter-spacing="2" fill="#80ded4">SAFETYGUARD / MODEL OPTIMIZATION</text><text x="48" y="94" font-size="27" font-weight="700" fill="#f2f7fb">Результаты оптимизации</text><text x="48" y="122" font-size="15" fill="#a8bbc7">Сравнение до и после квантования</text>
+<path d="M600 155V311" stroke="#314556"/>
+<text x="48" y="171" fill="#f0f6fa" font-size="19" font-weight="700">Размер модели</text><text x="48" y="196" fill="#a5b9c5" font-size="13">МБ · меньше лучше</text>
+<text x="48" y="235" fill="#a5b9c5" font-size="14">До</text><rect x="110" y="218" width="390" height="21" rx="10.5" fill="#465d70"/><text x="510" y="235" fill="#e5eff3" font-size="15" font-weight="700">12,4</text>
+<text x="48" y="278" fill="#a5b9c5" font-size="14">После</text><rect x="110" y="261" width="104" height="21" rx="10.5" fill="url(#accent)"/><text x="224" y="278" fill="#98efe2" font-size="15" font-weight="700">3,3</text>
+<text x="638" y="171" fill="#f0f6fa" font-size="19" font-weight="700">Обработка 1 минуты видео</text><text x="638" y="196" fill="#a5b9c5" font-size="13">секунды · меньше лучше</text>
+<text x="638" y="235" fill="#a5b9c5" font-size="14">До</text><rect x="700" y="218" width="390" height="21" rx="10.5" fill="#465d70"/><text x="1100" y="235" fill="#e5eff3" font-size="15" font-weight="700">~120</text>
+<text x="638" y="278" fill="#a5b9c5" font-size="14">После</text><rect x="700" y="261" width="75" height="21" rx="10.5" fill="url(#accent)"/><text x="785" y="278" fill="#98efe2" font-size="15" font-weight="700">~23</text>
+<path d="M48 317H1152" stroke="#314556"/><text x="48" y="345" font-size="12" fill="#96abb7">Источник: README проекта SafetyGuard · условия измерений в репозитории подробно не указаны</text></g></svg>
