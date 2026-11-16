@@ -1,44 +1,78 @@
 <div align="center">
 
-# Александр Полянский
+<img src="https://raw.githubusercontent.com/Alexsandr52/Alexsandr52/main/assets/profile-banner.svg" alt="Alexander Polyanskiy: machine learning, robotics and computer vision" width="100%">
 
-### Machine Learning · Computer Vision · Python
+<br>
 
-Исследую данные, обучаю модели и превращаю идеи в работающие сервисы.
+**Привет, я Александр.** Работаю с машинным обучением, компьютерным зрением и робототехникой.  
+Изучаю модели, собираю прототипы и создаю инструменты для реальных задач.
 
-[Проекты](#проекты) &nbsp;•&nbsp; [Инструменты](#инструменты) &nbsp;•&nbsp; [Все репозитории](https://github.com/Alexsandr52?tab=repositories)
+[![Telegram](https://img.shields.io/badge/Telegram-Написать-1b9aaa?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ak_polyanskiy)
+[![GitHub](https://img.shields.io/badge/GitHub-Все_проекты-27334b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexsandr52?tab=repositories)
 
 </div>
 
----
+<br>
 
-## Привет! 👋
+## ◈ &nbsp; Последние проекты
 
-Меня зовут Александр. В этом профиле — проекты на стыке машинного обучения, компьютерного зрения и разработки: от экспериментов с моделями до ботов и веб-сервисов.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Проекты
+### 🤖 &nbsp; [Robot-intelect](https://github.com/Alexsandr52/Robot-intelect)
 
-🔬 **[Обнаружение переломов на снимках](https://github.com/Alexsandr52/yolov8-for-fracture-detection)**  
-Обучение модели YOLOv8 и сервис на Flask для анализа изображений.  
-`Python` · `YOLOv8` · `Flask` · `Docker`
+Проект манипуляции для Unitree G1: захват и подъем коробки в симуляции, с планами переноса на реального робота.
 
-🎙️ **[Распознавание голосовых сообщений](https://github.com/Alexsandr52/Bot-speech-to-text-on-yc)**  
-Telegram-бот для транскрибации аудио с асинхронной обработкой в Yandex Cloud.  
-`Python` · `Telegram` · `Yandex Cloud` · `AssemblyAI`
+`Robotics` `Isaac Lab` `Python`
 
-🤖 **[Telegram Bot SaaS](https://github.com/Alexsandr52/telegram-bot-saas)**  
-Платформа для создания ботов записи клиентов; проект находится в разработке.  
-`Python` · `FastAPI` · `PostgreSQL` · `Docker`
+</td>
+<td width="50%" valign="top">
 
-## Инструменты
+### 👁 &nbsp; [Face Blur](https://github.com/Alexsandr52/face-blur)
 
-`Python` &nbsp; `Machine Learning` &nbsp; `Computer Vision` &nbsp; `YOLO`  
-`FastAPI` &nbsp; `Flask` &nbsp; `PostgreSQL` &nbsp; `Docker`
+Локальная обработка видео: обнаружение и размытие лиц, сравнение подходов YuNet, PyTorch и YOLO.
 
----
+`Computer Vision` `OpenCV` `YOLO`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 &nbsp; [KubSU Study Search](https://github.com/Alexsandr52/kubsu-study-search)
+
+Поиск по учебным материалам и сообщениям Telegram: Qdrant, reranker и локальная Qwen для ответов со ссылками на источники.
+
+`RAG` `Qdrant` `LLM`
+
+</td>
+<td width="50%" valign="top">
+
+### ✉️ &nbsp; [Gmail Job Classifier](https://github.com/Alexsandr52/gmail-job-classifier)
+
+Классификация писем о вакансиях с помощью локальной модели Ollama: приглашения, ожидание, отказы и другие сообщения.
+
+`Python` `Ollama` `NLP`
+
+</td>
+</tr>
+</table>
+
+<sub>Также в профиле: [Unitree Sim Isaac Lab](https://github.com/Alexsandr52/unitree_sim_isaaclab), форк среды симуляции Unitree Robotics.</sub>
+
+<br>
+
+## ◈ &nbsp; Направления и инструменты
+
+**AI / ML** &nbsp; Python · PyTorch · YOLO · LLM · RAG  
+**Разработка** &nbsp; FastAPI · Flask · PostgreSQL · Docker  
+**Робототехника** &nbsp; Unitree G1 · Isaac Lab · симуляция
+
+<br>
 
 <div align="center">
 
-Больше экспериментов и кода — в [репозиториях GitHub](https://github.com/Alexsandr52?tab=repositories).
+<sub>ЭКСПЕРИМЕНТЫ &nbsp; / &nbsp; КОД &nbsp; / &nbsp; ПРАКТИКА</sub>
 
 </div>
