@@ -63,6 +63,14 @@
 
 <br>
 
+## ◈ &nbsp; Результаты проекта
+
+[<img src="https://raw.githubusercontent.com/Alexsandr52/Alexsandr52/main/assets/safetyguard-results.svg" alt="SafetyGuard: размер модели 12,4 и 3,3 МБ; обработка минуты видео около 120 и 23 секунд до и после квантования" width="100%">](https://github.com/Alexsandr52/SafetyGuard#производительность)
+
+<sub>Данные из [README SafetyGuard](https://github.com/Alexsandr52/SafetyGuard#производительность). Время обработки указано приблизительно; условия измерений подробно не описаны.</sub>
+
+<br>
+
 ## ◈ &nbsp; Направления и инструменты
 
 **AI / ML** &nbsp; Python · PyTorch · YOLO · LLM · RAG  
